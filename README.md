@@ -1,1 +1,1 @@
-# greendentailwind
+🌿 Greenden is a modern, responsive website built with HTML and Tailwind CSS, showcasing a clean, minimal design for plant lovers or e-commerce use. Fully customizable and mobile-friendly. Great for portfolios, templates, or beginner web dev projects.
